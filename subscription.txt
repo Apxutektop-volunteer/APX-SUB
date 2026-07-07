@@ -1,6 +1,6 @@
 #subscription-userinfo: upload=1073741824000; download=0; total=1073741824000; expire=2524608000
 #profile-title: Apxutektop Network
-#интервал-обновления-профиля: 1
+#profile-update-interval: 1
 #support-url: http://t.me/+kAtLnkz6g5JjOTJi
 #announce: Apxutektop Network Пользователь - главный приоритет
 
