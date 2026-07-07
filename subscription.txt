@@ -1,9 +1,3 @@
-#subscription-userinfo: upload=1073741824000; download=0; total=1073741824000; expire=2524608000
-#profile-title: Apxutektop Network
-#profile-update-interval: 1
-#support-url: http://t.me/+kAtLnkz6g5JjOTJi
-#announce: Apxutektop Network Пользователь - главный приоритет
-
 vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.30:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=eh.vk.ru&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&type=tcp&headerType=none#🇷🇺 Russia #1
 vless://7cec3808-65d4-4dbd-941f-e9b640977071@185.71.67.223:443?encryption=none&security=tls&sni=cdn.stroimvmeste.icu&fp=chrome&type=xhttp&mode=auto&path=%2Fstart#🇩🇪 Germany #2
 vless://7cec3808-65d4-4dbd-941f-e9b640977071@185.71.67.223:443?encryption=none&security=tls&sni=cdn.stroimvmeste.icu&type=xhttp&mode=auto&path=%2Fstart#🇩🇪 Germany #3
