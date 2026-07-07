@@ -1,7 +1,0 @@
-#subscription-userinfo: upload=1073741824000; download=0; total=1073741824000; expire=2524608000
-#profile-title: Apxutektop Network
-#profile-update-interval: 1
-#support-url: https://t.me/+kAtLnkz6g5JjOTJi
-#announce: Apxutektop Network Пользователь - главный приоритет
-
-vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.30:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=eh.vk.ru&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&type=tcp&headerType=none#🇷🇺 Russia #1
