@@ -1,4 +1,5 @@
-# APX-SUB
-Бесплатная VPN подписка by: Apxutektop
+kafka sub
+Бесплатная VPN подписка by: @kafka_def (тг)
 
-https://raw.githubusercontent.com/Apxutektop-volunteer/APX-SUB/main/subscription.txt
+
+https://raw.githubusercontent.com/kafka-def/kafka-sub/refs/heads/main/subscription.txt
