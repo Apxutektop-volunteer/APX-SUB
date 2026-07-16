@@ -1,7 +1,7 @@
 #subscription-userinfo: upload=1073741824000; download=0; total=1073741824000; expire=2524608000
 #profile-title: kafka sub
 #profile-update-interval: 1
-#support-url: t.me/kafka_def
+#support-url: telegram.me/kafka_def
 #announce: разработка @kafka_def // обновлено 16 июля 03:00 // всего 20 конфигов
 
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?type=tcp&headerType=none&security=reality&encryption=none&sni=2.oncloudnineservicestreang.com&fp=firefox&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&sid=d8d3dc6c3ca45dd4&flow=xtls-rprx-vision#🇩🇪 by: @kafka_def
