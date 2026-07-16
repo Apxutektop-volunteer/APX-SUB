@@ -2,7 +2,7 @@
 #profile-title: kafka sub
 #profile-update-interval: 1
 #support-url: t.me/kafka_def
-#announce: разработка @kafka_def
+#announce: разработка @kafka_def // обновлено 16 июля 03:00 // всего 20 конфигов
 
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?type=tcp&headerType=none&security=reality&encryption=none&sni=2.oncloudnineservicestreang.com&fp=firefox&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&sid=d8d3dc6c3ca45dd4&flow=xtls-rprx-vision#🇩🇪 by: @kafka_def
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?type=tcp&headerType=none&security=reality&encryption=none&sni=4.oncloudnineservicestreang.com&fp=firefox&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&sid=04bc695105689674&flow=xtls-rprx-vision#🇩🇪 by: @kafka_def
@@ -21,3 +21,4 @@ vless://8bba3194-4856-46d1-8319-075817d87eb1@nl3.cyphervpn.pro:443?flow=xtls-rpr
 vless://8bba3194-4856-46d1-8319-075817d87eb1@nl15.sodahub.online:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nl15.sodahub.online&fp=firefox&pbk=oGgupP3uX0TNyFwuxNYaFj-IQ8EPhCuKfJdaOHiMnV0&sid=c334408a1056aaf8&type=tcp&headerType=none#🇳🇱 by: @kafka_def
 vless://8bba3194-4856-46d1-8319-075817d87eb1@fi2.cyphervpn.pro:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi2.cyphervpn.pro&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&type=tcp&headerType=none#🇬🇪 by: @kafka_def
 vless://8bba3194-4856-46d1-8319-075817d87eb1@ge4.cyphervpn.pro:2443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ge4.cyphervpn.pro&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&type=tcp&headerType=none#🇬🇪 by: @kafka_def
+vless://a3a34b58-14b4-0012-a555-8752f7694916@46.8.209.229:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#%by: @kafka_def
