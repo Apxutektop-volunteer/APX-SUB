@@ -2,7 +2,8 @@
 #profile-title: kafka sub
 #profile-update-interval: 1
 #support-url: telegram.me/kafka_def
-#announce: разработка @kafka_def // обновлено 18 июля 17:35 // всего 9 конфигов
+#announce: разработка @kafka_def // обновлено 18 июля 22:55 MSK // всего 9
+15конфигов
 
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?type=tcp&headerType=none&security=reality&encryption=none&sni=2.oncloudnineservicestreang.com&fp=firefox&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&sid=d8d3dc6c3ca45dd4&flow=xtls-rprx-vision#🇩🇪 by: @kafka_def
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?type=tcp&headerType=none&security=reality&encryption=none&sni=4.oncloudnineservicestreang.com&fp=firefox&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&sid=04bc695105689674&flow=xtls-rprx-vision#🇩🇪 by: @kafka_def
@@ -13,3 +14,9 @@ vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?type=tcp&header
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@138.124.113.18:443?type=tcp&headerType=none&security=reality&encryption=none&sni=iamsterdam.com&fp=firefox&pbk=1RFs75L42oUjmgEKqahFVrKKN52cosDkrWskT053D3o&sid=0aafc7b3b9&spx=%2F&flow=xtls-rprx-vision#🇳🇱 by: @kafka_def
 hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net#🇵🇱 by: @kafka_def
 vless://8bba3194-4856-46d1-8319-075817d87eb1@45.140.205.186:2443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=sw2.cyphervpn.pro&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&type=tcp&headerType=none#🇸🇪 by: @kafka_def
+vless://6cd632a0-02c5-4468-948d-134221ab7c66@194.152.44.233:2053?encryption=none&security=tls&sni=darK3.darkOOb03.wORkeRs.dEV&fp=qq&type=ws&host=dark3.darkoob03.workers.dev&path=%2FeyJqdW5rIjoibnZRdmNwaUciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTQ4LjE1NCIsIjkxLjEwNy4yNTUuMTk2IiwiOTEuMTA3LjE3MS4yNTEiLCI5MS4xMDcuMTU4Ljc3IiwiOTEuMTA3LjE1NS4xMyIsIjkxLjEwNy4yNTEuMTEzIl19#🇪🇺 by: @kafka_def
+vless://0bb3239a-1e0f-4f44-9957-09e70d536125@91.219.227.142:1337?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yandex.ru&fp=qq&pbk=U5AJ4Kkp4Cc7IOzDXz3B6RNOsb0FNd6flX3KxpEN6Fo&sid=7eb1c0a5&type=tcp&headerType=none#🇱🇻 by: @kafka_def
+vless://0b0e9802-3a94-4cb0-83e3-293b94a1ee2e@84.201.149.97:443?encryption=none&security=tls&sni=cloudflare.vhub.pro&fp=qq&type=ws&path=%2Fwebsocket%3Fed%3D2560#🇩🇪 by: @kafka_def
+vless://8bfb92d5-d191-4cb4-b3c1-c2dac1d3cfab@45.196.214.159:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=qq&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f&type=tcp&headerType=none#🇮🇹 by: @kafka_def
+vless://0b0e9802-3a94-4cb0-83e3-293b94a1ee2e@158.160.182.90:443?encryption=none&security=tls&sni=cloudflare.vhub.pro&fp=qq&type=ws&path=%2Fwebsocket%3Fed%3D2560#🇩🇪 by: @kafka_def
+vless://29fa091f-65db-44fd-b388-22dc76dd4b97@2.fognet.ru:443?encryption=none&security=tls&sni=2.fognet.ru&type=ws&host=2.fognet.ru&path=%2Ffog#🇱🇻 by: @kafka_def
