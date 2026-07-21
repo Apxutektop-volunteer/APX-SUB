@@ -2,7 +2,7 @@
 #profile-title: kafka sub
 #profile-update-interval: 1
 #support-url: telegram.me/kafka_def
-#announce: разработка @kafka_def // обновлено 19 июля 21:25 MSK // всего 22 конфигов
+#announce: разработка @kafka_def // обновлено 22 июля 00:05 MSK // всего 7 конфигов
 
 trojan://0123456789abcdef0123456789abcdef@example.com:443?security=tls&sni=example.com&type=tcp&headerType=none#Обновление сегодня
 hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443?security=tls&fm=%7B%7D&sni=fr2.h2corp.org#🇫🇷 by: @kafka_def
