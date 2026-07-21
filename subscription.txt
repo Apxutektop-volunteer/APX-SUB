@@ -4,7 +4,7 @@
 #support-url: telegram.me/kafka_def
 #announce: разработка @kafka_def // обновлено 22 июля 00:05 MSK // всего 7 конфигов
 
-trojan://0123456789abcdef0123456789abcdef@example.com:443?security=tls&sni=example.com&type=tcp&headerType=none#Обновление сегодня
+trojan://0123456789abcdef0123456789abcdef@example.com:443?security=reality&sni=example.com&type=httpupgrade#Обновление сегодня
 hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443?security=tls&fm=%7B%7D&sni=fr2.h2corp.org#🇫🇷 by: @kafka_def
 ss://chacha20-ietf-poly1305:k1dBOmOB4oqi7Ump37a1bQ@82.38.31.216:8080#🇳🇱 by: @kafka_def
 vmess://eyJhZGQiOiI5NC4xMzEuMTA4LjM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk4NTVmMWYwLWE4MDAtNDBkNC04YjM4LWM3ZDNlYjc5MzAyZCIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7nwn4e3IFRSICMxMyB0Lm1lL2t1ZXJ0b3ZfY29tbXVuaXR5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#🇹🇷 by: @kafka_def
