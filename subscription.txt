@@ -4,4 +4,4 @@
 #support-url: telegram.me/kafka_def
 #announce: разработка @kafka_def // обновлено 22 июля 00:05 MSK // всего 7 конфигов
 
-trojan://0123456789abcdef0123456789abcdef@example.com:443?security=reality&sni=example.com&type=httpupgrade#Техническое обслуживание
+trojan://0123456789abcdef0123456789abcdef@example.com:443?security=tls&sni=example.com&type=tcp&headerType=none#Техническое обслуживание
